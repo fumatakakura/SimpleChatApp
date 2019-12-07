@@ -1,0 +1,28 @@
+[debug] [2019-12-06T06:55:58.954Z] ----------------------------------------------------------------------
+[debug] [2019-12-06T06:55:58.955Z] Command:       /usr/local/bin/node /Users/taka/.npm-global/bin/firebase init firestore
+[debug] [2019-12-06T06:55:58.956Z] CLI Version:   7.8.1
+[debug] [2019-12-06T06:55:58.956Z] Platform:      darwin
+[debug] [2019-12-06T06:55:58.956Z] Node Version:  v10.16.3
+[debug] [2019-12-06T06:55:58.965Z] Time:          Fri Dec 06 2019 14:55:58 GMT+0800 (GMT+08:00)
+[debug] [2019-12-06T06:55:58.966Z] ----------------------------------------------------------------------
+[debug] [2019-12-06T06:55:58.966Z] 
+[debug] [2019-12-06T06:55:58.980Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-12-06T06:55:58.980Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/taka/Desktop/Swift/Firebase/SimpleChatApp
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
